@@ -1,0 +1,80 @@
+Symbol,SymbolYF,Sector,Industry,Currency,Description,VARkoef,BasisPrice,RoundingLimits,OutsideRTHbuy,ExcelTicker,LastClosePrice
+8TRA,8TRA.DE,Industrials,Farm & Heavy Construction Machinery,EUR,Traton SE,1,26.0,0.02,True,,33.14
+AAPL,AAPL,Technology,Consumer Electronics,USD,Apple Inc.,1,165.0,,True,,293.32
+ABNB,ABNB,Consumer Cyclical,Travel Services,USD,"Airbnb, Inc.",1,136.95,,,,141.49
+ADBE,ADBE,Technology,Software - Application,USD,Adobe Inc.,1,440.0,,,,253.04
+ALV,ALV.DE,Financial Services,Insurance - Diversified,EUR,Allianz SE,1,231.0,,,,121.62
+AMD,AMD,Technology,Semiconductors,USD,"Advanced Micro Devices, Inc.",1,80.0,,,XNAS:AMD,455.19
+AMZN,AMZN,Consumer Cyclical,Internet Retail,USD,"Amazon.com, Inc.",1,122.6,,,,272.68
+ASML,ASML.AS,Technology,Semiconductor Equipment & Materials,EUR,ASML Holding N.V.,1,1034.0,0.2,,XAMS:ASML,1592.02
+BAC,BAC,Financial Services,Banks - Diversified,USD,Bank of America Corporation,1,35.4,,,XNYS:BAC,51.31
+BARC,BARC.L,Financial Services,Banks - Diversified,GBp,Barclays PLC,1,2.45,,,XLON:BARC,4.376
+BAS,BAS.DE,Basic Materials,Chemicals,EUR,BASF SE,1,41.06,,,,52.5
+BKNG,BKNG,Consumer Cyclical,Travel Services,USD,Booking Holdings Inc.,1,75.0,,,,165.93
+BRK B,BRK-B,Financial Services,Insurance - Diversified,USD,Berkshire Hathaway Inc.,1,400.0,,,XNYS:BRK.B,475.94
+BX,BX,Financial Services,Asset Management,USD,Blackstone Inc.,1,107.9,,,,123.77
+C,C,Financial Services,Banks - Diversified,USD,Citigroup Inc.,1,68.0,,,,125.55
+CAT,CAT,Industrials,Farm & Heavy Construction Machinery,USD,Caterpillar Inc.,1,325.0,,,XNYS:CAT,897.45
+COST,COST,Consumer Defensive,Discount Stores,USD,Costco Wholesale Corporation,1,446.0,,,,1008.79
+CSCO,CSCO,Technology,Communication Equipment,USD,"Cisco Systems, Inc.",1,54.6,,,,96.57
+CSX,CSX,Industrials,Railroads,USD,CSX Corporation,1,32.0,,,,44.83
+DB,DB,Financial Services,Banks - Regional,USD,Deutsche Bank Aktiengesellschaft,1,18.18,,,,32.07
+DBK,DBK.DE,Financial Services,Banks - Regional,EUR,Deutsche Bank Aktiengesellschaft,1,18.0,0.02,,XFRA:DBK,27.25
+DDD,DDD,Technology,Computer Hardware,USD,3D Systems Corporation,1,1.7,,,XNYS:DDD,2.47
+DJI,^DJI,Index,Index,USD,Dow Jones Industrial Average,0,28685.0,,,,49609.16
+ENB,ENB,Energy,Oil & Gas Midstream,USD,Enbridge Inc.,1,30.0,,,XNYS:ENB,53.59
+ETL,ETL.PA,Technology,Communication Equipment,EUR,Eutelsat Communications S.A.,1,3.05,,,XPAR:ETL,2.85
+F,F,Consumer Cyclical,Auto Manufacturers,USD,Ford Motor Company,1,11.7,,,,12.32
+FRHC,FRHC,Financial Services,Financial Conglomerates,USD,Freedom Holdings Corp.,1,75.0,,,,139.81
+GM,GM,Consumer Cyclical,Auto Manufacturers,USD,General Motors Company,1,40.0,,,,78.8
+GOOG,GOOG,Communication Services,Internet Content & Information,USD,Alphabet Inc.,1,150.0,,,,397.05
+GS,GS,Financial Services,Capital Markets,USD,"The Goldman Sachs Group, Inc.",1,440.0,,,,936.48
+HAG,HAG.F,Industrials,Aerospace & Defense,EUR,Hensoldt AG,1,63.0,0.02,,XFRA:HAG,72.6
+HPQ,HPQ,Technology,Computer Hardware,USD,HP Inc.,1,27.6,,,,22.68
+IBKR,IBKR,Financial Services,Capital Markets,USD,"Interactive Brokers Group, Inc.",1,155.0,,,,84.42
+IBM,IBM,Technology,Information Technology Services,USD,International Business Machines Corporation,1,239.0,,,,229.76
+IFX,IFX.DE,Technology,Semiconductors,EUR,Infineon Technologies AG,1,25.15,0.02,,,61.87
+JNJ,JNJ,Healthcare,Drug Manufacturers - General,USD,Johnson & Johnson,1,145.0,,,XNYS:JNJ,221.32
+JPM,JPM,Financial Services,Banks - Diversified,USD,JPMorgan Chase & Co.,1,224.0,,,,302.1
+KMI,KMI,Energy,Oil & Gas Midstream,USD,"Kinder Morgan, Inc.",1,14.8,,,,31.41
+MA,MA,Financial Services,Credit Services,USD,Mastercard Incorporated,1,502.5,,,,495.48
+META,META,Communication Services,Internet Content & Information,USD,"Meta Platforms, Inc.",1,300.0,0.1,,,609.63
+MMM,MMM,Industrials,Conglomerates,USD,3M Company,1,124.7,,,,143.29
+MOS,MOS,Basic Materials,Agricultural Inputs,USD,The Mosaic Company,1,29.2,0.02,,XNYS:MOS,22.19
+MS,MS,Financial Services,Capital Markets,USD,Morgan Stanley,1,120.5,0.05,,,193.09
+MSFT,MSFT,Technology,Software - Infrastructure,USD,Microsoft Corporation,1,401.0,,,,415.12
+MTX,MTX.DE,Industrials,Aerospace & Defense,EUR,MTU Aero Engines AG,1,304.0,0.1,,,297.5
+NOK,NOK,Technology,Communication Equipment,USD,Nokia Oyj,1,5.49,,,,12.82
+NSC,NSC,Industrials,Railroads,USD,Norfolk Southern Corporation,1,224.0,,,,312.01
+NTR,NTR,Basic Materials,Agricultural Inputs,USD,Nutrien Ltd.,1,75.43,,,,68.33
+NVDA,NVDA,Technology,Semiconductors,USD,NVIDIA Corporation,1,115.0,,,XNAS:NVDA,215.2
+ORCL,ORCL,Technology,Software - Infrastructure,USD,Oracle Corporation,1,198.0,,,,195.95
+OXY,OXY,Energy,Oil & Gas E&P,USD,Occidental Petroleum Corporation,1,57.0,,,,53.03
+PFE,PFE,Healthcare,Drug Manufacturers - General,USD,Pfizer Inc.,1,34.5,,,XNYS:PFE,25.68
+PHG,PHG,Healthcare,Medical Devices,USD,Koninklijke Philips N.V.,1,39.9,,,XNYS:PHG,27.21
+PYPL,PYPL,Financial Services,Credit Services,USD,"PayPal Holdings, Inc.",1,57.0,,,,45.37
+QCOM,QCOM,Technology,Semiconductors,USD,QUALCOMM Incorporated,1,154.3,,,,219.09
+R3NK,R3NK.DE,Industrials,Aerospace & Defense,EUR,RENK Group AG,1,39.0,0.02,,,46.625
+RHM,RHM.DE,Industrials,Aerospace & Defense,EUR,Rheinmetall AG,1,1596.0,0.2,,XETR:RHM,1193.2
+ROG,RO.SW,Healthcare,Drug Manufacturers - General,CHF,Roche Holding AG,1,260.6,,,XSWX:RO,315.3
+RYAAY,RYAAY,Industrials,Airlines,USD,Ryanair Holdings plc,1,40.4,,,,58.07
+SAF,SAF.PA,Industrials,Aerospace & Defense,EUR,Safran SA,1,203.0,0.1,,,280.9
+SAP,SAP.DE,Technology,Software - Application,EUR,SAP SE,1,212.0,0.02,,XETR:SAP,146.86
+SBUX,SBUX,Consumer Cyclical,Restaurants,USD,Starbucks Corporation,1,71.5,,,,104.93
+SCL,SCL,Basic Materials,Specialty Chemicals,USD,Stepan Company,1,44.8,,,,52.93
+SHEL,SHEL,Energy,Oil & Gas Integrated,USD,Shell plc,1,58.8,,,,83.97
+SHOP,SHOP,Technology,Software - Application,USD,Shopify Inc.,1,95.0,,,,110.41
+SNDK,SNDK,Technology,Computer Hardware,USD,Sandisk Corporation,1,29.0,,,,1562.34
+SONY,SONY,Technology,Consumer Electronics,USD,Sony Group Corporation,1,22.65,,,XNYS:SONY,20.15
+SSYS,SSYS,Technology,Computer Hardware,USD,Stratasys Ltd.,1,8.3,,,,8.52
+T,T,Communication Services,Telecom Services,USD,AT&T Inc.,1,21.0,,,,25.16
+TKA,TKA.DE,Industrials,Conglomerates,EUR,thyssenkrupp AG,1,8.26,,,,10.295
+TM,TM,Consumer Cyclical,Auto Manufacturers,USD,Toyota Motor Corporation,1,167.0,,,XNYS:TM,187.53
+TSLA,TSLA,Consumer Cyclical,Auto Manufacturers,USD,"Tesla, Inc.",1,252.0,,,,428.35
+TTR1,TTR1.DE,Industrials,Specialty Industrial Machinery,EUR,technotrans SE,1,22.53,0.1,,,34.0
+TTWO,TTWO,Communication Services,Electronic Gaming & Multimedia,USD,"Take-Two Interactive Software, Inc.",1,134.4,,,,220.45
+V,V,Financial Services,Credit Services,USD,Visa Inc.,1,308.0,,,,318.79
+VOW3,VOW3.DE,Consumer Cyclical,Auto Manufacturers,EUR,Volkswagen AG,1,92.0,0.02,,XFRA:VOW3,88.34
+WBD,WBD,Communication Services,Entertainment,USD,"Warner Bros. Discovery, Inc.",1,17.8,,,,27.11
+WCH,WCH.DE,Basic Materials,Specialty Chemicals,EUR,Wacker Chemie AG,1,65.0,0.05,,,95.6
+WDC,WDC,Technology,Computer Hardware,USD,Western Digital Corporation,1,48.3,,,,480.0
